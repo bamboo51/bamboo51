@@ -1,12 +1,12 @@
 ### Hi there 👋
 I am Srikokcharoen Phongwit, studying about Information System and Machine Learning at National Institute of Technology, Sendai College.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bamboo51&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamboo51&layout=donut" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bamboo51)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bamboo51)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bamboo51)
+
+### Languages
+![](https://skillicons.dev/icons?i=c,cpp,java,py)
 
 <!--
 **bamboo51/bamboo51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
