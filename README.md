@@ -8,6 +8,9 @@ I am Srikokcharoen Phongwit, studying about Information System and Machine Learn
 ### Languages
 ![](https://skillicons.dev/icons?i=c,cpp,java,py)
 
+### Markup Languages
+![](https://skillicons.dev/icons?i=html,css)
+
 <!--
 **bamboo51/bamboo51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
