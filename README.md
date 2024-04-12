@@ -11,6 +11,10 @@ I am Srikokcharoen Phongwit, studying about Information System and Machine Learn
 ### Markup Languages
 ![](https://skillicons.dev/icons?i=html,css)
 
+### Machine Learning
+![](https://skillicons.dev/icons?i=tensorflow,pytorch)
+
+
 <!--
 **bamboo51/bamboo51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
