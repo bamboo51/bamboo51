@@ -2,8 +2,8 @@
 I am Srikokcharoen Phongwit, studying about Information System and Machine Learning at National Institute of Technology, Sendai College.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bamboo51)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bamboo51)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bamboo51)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bamboo51)
 
 ### Languages
 ![](https://skillicons.dev/icons?i=c,cpp,java,py)
