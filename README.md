@@ -18,4 +18,4 @@ I am Srikokcharoen Phongwit, studying about Information System and Machine Learn
 ![](https://skillicons.dev/icons?i=tensorflow,pytorch)
 
 ### Currently studying
-![](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,django)
+![](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,django,expressjs)
