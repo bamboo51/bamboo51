@@ -32,3 +32,6 @@ I am Srikokcharoen Phongwit, studying about Information System and Machine Learn
 
 ### Web3
 ![](https://skillicons.dev/icons?i=solidity)
+
+### Numerical Calculation
+![](https://skillicons.dev/icons?i=matlab)
