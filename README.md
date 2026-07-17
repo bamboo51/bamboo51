@@ -3,7 +3,7 @@ I am Srikokcharoen Phongwit, studying about Information System and Machine Learn
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bamboo51)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bamboo51)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bamboo51exclude=jupyter%20notebook)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bamboo51&exclude=jupyter%20notebook)
 
 
 ![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/bamboo51)
