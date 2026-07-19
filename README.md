@@ -8,6 +8,17 @@ I am Srikokcharoen Phongwit, studying about Information System and Machine Learn
 
 ![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/bamboo51)
 
+## Achievements
+### 2026
+* CyBON: Sendai KOSEN Global Camp 2026: Sendai KOSEN award
+
+### 2025
+* [Infra-DSC: Infrastructure Management Technology Contest 2025 (Special Jury Prize)](https://infratechcon.com/past_works)
+
+### 2024
+* [DCON 2024: Vivid Flow (Poster Presentation)](https://dcon.ai/dcon2024/pass2024/#final)
+* [Infra-DSC: 東北社会課題解決型クリエーター発掘・育成プログラム（SICA）採択](https://techplay.jp/event/931667)
+
 ## Languages
 ![](https://skillicons.dev/icons?i=c,cpp,java,py)
 
