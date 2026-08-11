@@ -11,6 +11,7 @@ I am Srikokcharoen Phongwit, studying about Information System and Machine Learn
 ## Achievements
 ### 2026
 * CyBON: Sendai KOSEN Global Camp 2026: Sendai KOSEN award
+* Mirai Catalyst Hackathon 2026: Final List (Sumasuke App)
 
 ### 2025
 * [Infra-DSC: Infrastructure Management Technology Contest 2025 (Special Jury Prize)](https://infratechcon.com/past_works)
